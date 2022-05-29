@@ -18,11 +18,9 @@ img{
 
 }
 hr {
-  border-color: 5px  #da0808e7;
-  width: 20%;
-  margin: auto;
+  border color :black;
+  width: 10%;
 }
-
 
 body {
   background-image: url("pro.jpg");
@@ -43,7 +41,7 @@ body {
   display: inline-block;
   width: 1em;
   margin-left: -1em;
-  font-size: larger;
+  font-size: large;
   
 }
 
@@ -52,24 +50,29 @@ li{
   
 }
 
-h2 { 
-  color: red;
+h2 { color: #da0808;
 * font-family: "Times New Roman", Times, serif;
 font-weight: bold;
 font-size:first-line;
 }
 
 td{
-  font-size : larger;
+  font-size: larger;
 }
+
+
+
 
 a:visited {
   color:green;
 }
+
+
 a:hover {
   color: orangered;
 }
+
+
 a:active {
   color: blue;
-}  
-
+}
