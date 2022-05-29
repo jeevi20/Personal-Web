@@ -9,7 +9,7 @@ h1 {
 p {
   color :rgb(12, 10, 10);
   text-align: center;
-  font-size: larger;
+  font-size: x-large;
 }
   
 img{
@@ -43,17 +43,32 @@ body {
   display: inline-block;
   width: 1em;
   margin-left: -1em;
-  font-size: 1.500em; /* 14px/16=0.875em */
+  font-size: larger;
   
 }
 
 li{
-  font-size: medium;
+  font-size: larger;
   
 }
 
 h2 { color: rgb(135 10 137);
 * font-family: "Times New Roman", Times, serif;
 font-weight: bold;
-font-size::first-line
+font-size:first-line;
 }
+
+td{
+  font-size : larger;
+}
+
+a:visited {
+  color:green;
+}
+a:hover {
+  color: orangered;
+}
+a:active {
+  color: blue;
+}
+
