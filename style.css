@@ -50,8 +50,8 @@ li{
   
 }
 
-h2 { color: #da0808;
-* font-family: "Times New Roman", Times, serif;
+h2 { 
+  color: red;
 font-weight: bold;
 font-size:first-line;
 }
